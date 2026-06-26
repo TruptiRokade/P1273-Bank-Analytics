@@ -1,4 +1,4 @@
-# P1273 Bank Analytics
+# Banking Data Analytics
 
 ## Project Overview
 
